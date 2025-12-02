@@ -20,8 +20,8 @@ sudo mkdir /opt/linux-projectA
 sudo chown root:devopsteam /opt/linux-projectA
 sudo chmod 770 /opt/linux-projectA
 ```
+![alt text](image.png)
 
-![alt text](image-1.png)
 - Install required packages (Git, Nginx, Java)
 
 ``` bash
